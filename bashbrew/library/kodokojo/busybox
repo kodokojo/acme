@@ -1,1 +1,1 @@
-:latest github.com:kodokojo/acme.git bashbrew/dockerfiles/acme
+latest: github.com:kodokojo/acme.git@HEAD bashbrew/dockerfiles/acme
