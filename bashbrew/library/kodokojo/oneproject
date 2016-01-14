@@ -1,1 +1,1 @@
-latest: github.com:kodokojo/acme.git@HEAD dockerfiles/oneproject
+latest: git://github.com/kodokojo/acme@HEAD dockerfiles/oneproject
