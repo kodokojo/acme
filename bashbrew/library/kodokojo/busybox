@@ -1,2 +1,2 @@
-latest: github.com:kodokojo/acme.git@HEAD dockerfiles/acme
-1.0.0: github.com:kodokojo/acme.git@b22f7c1a4116cb7667b7f98d7bc673ff3c02dd6e dockerfiles/acme
+latest: git://github.com/kodokojo/acme@HEAD dockerfiles/acme
+1.0.0: git://github.com/kodokojo/acme@b22f7c1a4116cb7667b7f98d7bc673ff3c02dd6e dockerfiles/acme
