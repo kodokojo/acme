@@ -1,4 +1,4 @@
-FROM kodokojo/busybox
+FROM busybox
 
 MAINTAINER Jean-Pascal THIERY
 
